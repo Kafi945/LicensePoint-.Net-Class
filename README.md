@@ -2,7 +2,7 @@
 
 ## Usage
 
-### static readonly LP api = new LP("My First App", "mD0zOOJS9GIK59QKwqZgYyuHwNrnEGi0jiA87j1g0J15T", "1.0");
+### static readonly LP api = new LP("My First App", "Secret", "Ver");
 
 ### api.Connect();
 
